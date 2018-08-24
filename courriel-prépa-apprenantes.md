@@ -8,7 +8,7 @@ PRÉPAREZ-VOUS :
 
 2. Téléchargez Atom Editor : http://atom.io (Sublime Text ou Text Wrangler sont aussi de bons éditeurs)
 
-3. Téléchargez les fichiers d'apprentissage : https://github.com/ladieslearningcode/LINK/archive/master.zip
+3. Téléchargez les fichiers d'apprentissage : http://bit.ly/llc-browser-extensions-fr
 
 S'il s'agit d'un atelier d'une journée (de 10 h à 16 h), le dîner sera fourni.
 

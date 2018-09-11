@@ -427,23 +427,6 @@
 
     <section class="slide" data-markdown>
       <script type="text/template">
-        #Commentaires
-
-        Si vous souhaitez vous laisser des commentaires dans le code, rien de plus facile : utilisez deux barres obliques « // » avant votre code.
-
-        En utilisant « // », vous indiquez à l'ordinateur d'ignorer cette ligne, car il s'agit d'un commentaire.
-
-        Les commentaires ressemblent à ceci :
-
-        ```javascript
-        //Je suis un commentaire!
-        ```
-
-      </script>
-    </section>
-
-    <section class="slide" data-markdown>
-      <script type="text/template">
         #Vérification
 
         Voici ce à quoi le fichier « manifest » devrait ressembler :
@@ -499,7 +482,7 @@
 
         Nous en sommes à l'aspect le plus important : faire en sorte que le script écoute les commandes du bouton.
 
-        Dans le fichier script.js, sous la fonction déjà présente, ajoutez :
+        **Dans le fichier script.js**, sous la fonction déjà présente, ajoutez :
 
         ```javascript
 chrome.pageAction.onClicked.addListener()
@@ -593,6 +576,23 @@ chrome.tabs.executeScript(
         * code est le code que nous allons exécuter à l'intérieur de cet onglet <!-- .element: class="delayed" -->
         * document.body... est le code JavaScript que nous enverrons dans l'onglet pour qu'il s'exécute dans la page <!-- .element: class="delayed" -->
 
+
+      </script>
+    </section>
+
+    <section class="slide" data-markdown>
+      <script type="text/template">
+        #Commentaires
+
+        Si vous souhaitez vous laisser des commentaires dans le code, rien de plus facile : utilisez deux barres obliques « // » avant votre code.
+
+        En utilisant « // », vous indiquez à l'ordinateur d'ignorer cette ligne, car il s'agit d'un commentaire.
+
+        Les commentaires ressemblent à ceci :
+
+        ```javascript
+        //Je suis un commentaire!
+        ```
 
       </script>
     </section>

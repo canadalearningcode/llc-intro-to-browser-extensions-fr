@@ -1,6 +1,4 @@
-## Français :
-# Journée nationale des filles en programmation (Ladies Learning Code)
-
+## Ladies Learning code
 ## Introduction à la création d'extensions de navigateur en JavaScript
 
 Un atelier d'une journée où les apprenantes créeront une extension en JavaScript pour le navigateur Chrome.
